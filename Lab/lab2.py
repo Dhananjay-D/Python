@@ -64,7 +64,7 @@ def main():
         elif opt ==5:
             break
         else:
-            print("Enter valid Choice !! \n")
+            print("Enter invalid Choice !! \n")
             
 #if _name=="__main_":
 main()

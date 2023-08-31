@@ -1,0 +1,5 @@
+Article:
+https://www.freecodecamp.org/news/the-python-handbook/
+
+Video:
+https://youtu.be/eWRfhZUzrAc
